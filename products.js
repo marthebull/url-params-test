@@ -9,4 +9,4 @@ for (const parameter of searchParameters) {
 const newFirstName = searchParameters.get('firstName');
 const newLastName = searchParameters.get('lastName');
 
-//console.log(newFirstName, newLastName);
+console.log(newFirstName, newLastName);
